@@ -1786,7 +1786,7 @@ Handy metrics based on numbers above:
 * [Twilio Engineering Blog](http://www.twilio.com/engineering)
 * [Twitter Engineering](https://blog.twitter.com/engineering/)
 * [Uber Engineering Blog](http://eng.uber.com/)
-* [Yahoo Engineering Blog](http://yahooeng.tumblr.com/)
+* [Yahoo Engineering Blog](https://developer.yahoo.com/blogs/)
 * [Yelp Engineering Blog](http://engineeringblog.yelp.com/)
 * [Zynga Engineering Blog](https://www.zynga.com/blogs/engineering)
 
